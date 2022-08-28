@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ahmdnaved08
-- 👀 I’m interested in working as a virtual assistant 
-- 🌱 I’m currently Graduated in BS (Accounting & Finance)My name is Ahmed Naveed, graduated in BS(Accounting & Finance) Worked for different local companies as virtual assistant.
-- 💞️ I’m looking forward to get the work for Microsoft offices (Excel, word, powerpoint) 
-- 📫 How to reach me ( Email: ahmdnaved08@gmail.com )
+- 👋 Hi, My name is Ahmed Naveed
+- 👀 I’m interested in working as an Import and Export Management and other logistics related projects and jobs.
+- 🌱 I’m Graduated in BS(Accounting & Finance) and currently working as an Import Export Manager for a Fan manufacturing company (Rafiq Engineering Industries Pvt Ltd). 
+- 💞️ I’m looking forward to get the work related to my Job Description and Capabilities.  
+- 📫 How to reach me ( Email: ahmdnaved08@gmail.com, Whatsapp: +92 303 4785366)
 
 <!---
 ahmdnaved08/ahmdnaved08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
